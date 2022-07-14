@@ -56,3 +56,8 @@ body {
 .search-form {
 	margin-bottom: 20px;
 }
+#github {
+	text-align: center;
+	display: block;
+	color: blue;
+}
